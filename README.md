@@ -1,4 +1,4 @@
-# [Advent of Code 2023](https://adventofcode.com/2023/)
+# [Advent of Code 2024](https://adventofcode.com/2024/)
 
 ---
 
@@ -7,6 +7,8 @@
 Hi there, my name is Adi. I like doing the Advent of Code every year and this year I want to document my progress and thoughts on each problem here on this git repo. I'm [@adiraowastaken on Twitter](https://twitter.com/adiraowastaken) and I should be posting there to. Edits are welcome (especially to the starter files), just create a pull request before you do anything.
 
 **IMPORTANT, there are solutions that are posted here so don't spoil yourself!**
+
+This part is pretty much directly copied from my last years submission.
 
 ----
 
